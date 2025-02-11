@@ -6,7 +6,8 @@
 </h2>
 Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
 
-
+<br></br>
+<br></br>
 
 ## 📊 Análise de Dados e Negócios - Linguagens e Ferramentas 🛠️
 Tenho um perfil analítico e estratégico, integrando **Python** para automação e modelagem de dados com **SQL**, me servindo para estruturar e consultar informações com eficiência. O **Excel** também se torna um grande aliado junto com o **Power BI**, que me permite transformar essas informações em visualizações interativas. 
@@ -21,7 +22,8 @@ Tenho um perfil analítico e estratégico, integrando **Python** para automaçã
 <img align="center" alt="Office" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/648px-Microsoft_Office_logo_%282013–2019%29.svg.png">
 </div>
 
-
+<br></br>
+<br></br>
 
 ## 🔐 Cibersegurança e Proteção de Dados  
 
