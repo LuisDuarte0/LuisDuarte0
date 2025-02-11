@@ -1,7 +1,10 @@
-## Apresentação
+# Apresentação
+👋 Olá! Meu nome é Luis. Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
 
 ## 📊 Análise de Dados e Negócios - Linguagens e Ferramentas 🛠️
 Tenho um perfil analítico e estratégico, integrando **Python** para automação e modelagem de dados com **SQL**, me servindo para estruturar e consultar informações com eficiência. O **Excel** também se torna um grande aliado junto com o **Power BI**, que me permite transformar essas informações em visualizações interativas. 
+
+**Linguagens e Ferramentas**:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,6 +26,9 @@ Estou me preparando para a certificação **CompTIA Security+**, focando em rede
 ## Outras linguagens ⬇️
 
 Como estudante de desenvolvimento, é indispensável eu ter domínio em certas linguagens essenciais para a construção de aplicações. Por isso, além do foco em dados e negócios, também possuo um sólido conhecimento em **JavaScript, TypeScript, React, HTML, CSS e C#**, me garantindo uma base sólida para desenvolvimento web e criação de interfaces modernas e funcionais!✌
+
+**Linguagens**:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
