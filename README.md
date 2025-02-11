@@ -1,4 +1,7 @@
 # Apresentação
+
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+Olá!,+me+chamo+Luis!+👋" alt="Typing SVG" /></a></h2>
+
 👋 Olá! Meu nome é Luis. Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
 
 ## 📊 Análise de Dados e Negócios - Linguagens e Ferramentas 🛠️
