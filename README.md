@@ -35,7 +35,7 @@ Estou me preparando para a certificação **CompTIA Security+**, focando em rede
 
 ## Outras linguagens ⬇️
 
-Como estudante de desenvolvimento, é indispensável eu ter domínio em certas linguagens essenciais para a construção de aplicações. Por isso, além do foco em dados e negócios, também possuo um sólido conhecimento em **JavaScript, TypeScript, React, HTML, CSS e C#**, me garantindo uma base sólida para desenvolvimento web e criação de interfaces modernas e funcionais!✌
+Como estudante de desenvolvimento, acredito que seja indispensável ter o domínio em certas linguagens essenciais para a construção de aplicações. Por isso, também possuo um sólido conhecimento em **JavaScript, TypeScript, React, HTML, CSS e C#**, me garantindo uma base sólida para desenvolvimento web e criação de interfaces modernas e funcionais!✌
 
 **Linguagens**:
 
