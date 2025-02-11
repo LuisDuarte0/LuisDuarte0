@@ -6,9 +6,6 @@
 </h2>
 Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
 
-<br></br>
-<br></br>
-
 ## 📊 Análise de Dados e Negócios - Linguagens e Ferramentas 🛠️
 Tenho um perfil analítico e estratégico, integrando **Python** para automação e modelagem de dados com **SQL**, me servindo para estruturar e consultar informações com eficiência. O **Excel** também se torna um grande aliado junto com o **Power BI**, que me permite transformar essas informações em visualizações interativas. 
 
@@ -33,6 +30,8 @@ Estou me preparando para a certificação **CompTIA Security+**, focando em rede
 
 <img align="center" alt="Cybersecurity" height="50" width="50" src="https://cdn.prod.website-files.com/63eef1be981a383fb127661f/6470af4055598689d5eb6403_Frame%2096262.png">
 
+<br></br>
+<br></br>
 
 ## Outras linguagens ⬇️
 
