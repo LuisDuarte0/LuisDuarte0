@@ -1,8 +1,12 @@
 # Apresentação
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Olá!%2C+me+chamo+Luis!+👋" alt="Typing SVG" /></a></h2>
-
-👋 Olá! Meu nome é Luis. Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBA611&center=true&vCenter=true&width=500&lines=Olá!%2C+me+chamo+Luis!+👋;Bem-vindo+ao+meu+GitHub!+🚀" 
+    alt="Typing SVG" />
+  </a>
+</h2>
+Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
 
 ## 📊 Análise de Dados e Negócios - Linguagens e Ferramentas 🛠️
 Tenho um perfil analítico e estratégico, integrando **Python** para automação e modelagem de dados com **SQL**, me servindo para estruturar e consultar informações com eficiência. O **Excel** também se torna um grande aliado junto com o **Power BI**, que me permite transformar essas informações em visualizações interativas. 
