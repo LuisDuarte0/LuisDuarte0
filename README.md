@@ -4,7 +4,7 @@
     alt="Typing SVG" />
   </a>
 </h2>
-Sou apaixonado por dados e tecnologia, tanto para extrair insights estratégicos quanto para garantir que essas informações estejam seguras e protegidas contra ameaças.✌
+
 
 ## Linguagens⚙️
 
