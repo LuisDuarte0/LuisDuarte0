@@ -26,7 +26,7 @@ Aqui estão as principais tecnologias que utilizo no desenvolvimento back-end:
 Buscando me aprimorar cada vez mais na área, concluí recentemente **formações voltadas para desenvolvimento Back-End em C# e .NET**, além de expandir meu conhecimento em **Cloud Computing, DevOps e Segurança**:  
 
 📚 **ASP.NET Core** – Foco na construção de aplicações escaláveis e arquitetura robusta com **Entity Framework e LINQ**.  
-📚 **Testes em .NET** – Aprofundamento em **testes unitários e integração contínua**, utilizando **xUnit, Selenium, Azure DevOps e GitHub Actions** para garantir qualidade e automação nos projetos.  
+📚 **Testes em .NET** – Aprofundamento em **testes unitários e integração contínua**
 📚 **Cloud Computing & DevOps** – Estudo de **arquitetura de microsserviços**, automação de deploys e monitoramento utilizando **Azure e Docker**.  
 📚 **Python para Data & Backend** – Exploração de **automação, análise de dados e integração com APIs** para otimizar processos e desenvolver soluções eficientes.  
 📚 **Cibersegurança & Proteção de Dados** – Atualmente me preparando para a certificação **CompTIA Security+**, aprofundando conhecimentos em **segurança de redes, monitoramento de ameaças e resposta a incidentes**.  
@@ -47,32 +47,6 @@ Buscando me aprimorar cada vez mais na área, concluí recentemente **formaçõe
 
 <!--
 
-
-
-
-
-
   <a href="https://www.instagram.com/luis.duarte0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 -->
 
-
-
-
-
-
-
-
-<!--
-**LuisDuarte0/LuisDuarte0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
