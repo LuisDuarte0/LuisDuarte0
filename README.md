@@ -5,52 +5,43 @@
   </a>
 </h2>
 
+## 💻 Desenvolvimento Back-End com C# e .NET ⚙️  
+Sou apaixonado por desenvolvimento back-end e minha stack principal inclui **C#, .NET, ASP.NET Core, Python e Java**, onde foco na construção de **APIs eficientes, escaláveis e seguras**. Busco constantemente aprimorar minhas habilidades em **arquitetura de software**, **boas práticas** e **testes automatizados**, além de explorar soluções como **mensageria e microsserviços** para aplicações modernas.  
 
-## Linguagens⚙️
-
-Como estudante de desenvolvimento, acredito que seja indispensável ter o domínio em certas linguagens essenciais para a construção de aplicações. Por isso, também possuo um sólido conhecimento em **JavaScript, TypeScript, React, HTML, CSS e C#**, me garantindo uma base sólida para desenvolvimento web e criação de interfaces modernas e funcionais!✌
-
-**Linguagens**:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-## 📊 Análise de Dados 🛠️
-Tenho um perfil analítico e estratégico, integrando **Python** para automação e modelagem de dados com **SQL**, me servindo para estruturar e consultar informações com eficiência. O **Excel** também se torna um grande aliado junto com o **Power BI**, que me permite transformar essas informações em visualizações interativas. 
-
-**Linguagens e Ferramentas**:
+## 🛠️ Tecnologias & Ferramentas  
+Aqui estão as principais tecnologias que utilizo no desenvolvimento back-end:  
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/255832/sql.svg">
-<img align="center" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png">
-<img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png">
-<img align="center" alt="Office" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/648px-Microsoft_Office_logo_%282013–2019%29.svg.png">
-</div>
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="ASP.NET Core" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/300px-.NET_Core_Logo.svg.png">
+  <img align="center" alt="SQL Server" height="40" width="50" src="https://www.svgrepo.com/show/255832/sql.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Azure" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+  <img align="center" alt="GitHub Actions" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="xUnit" height="40" width="50" src="https://avatars.githubusercontent.com/u/2933246?s=200&v=4">
+</div>  
 
-## 🔐 Cibersegurança e Proteção de Dados  
 
-Eu sempre vi os dados como um dos ativos mais valiosos no mundo digital. Eles impulsionam negócios, guiam decisões e trazem insights valiosos. Almejo ir além de extrair informações estratégicas com eles, me interesso também pela **segurança** necessária em volta deles.
+## ✅ Estudos Recentes  
+Buscando me aprimorar cada vez mais na área, concluí recentemente **formações voltadas para desenvolvimento Back-End em C# e .NET**, além de expandir meu conhecimento em **Cloud Computing, DevOps e Segurança**:  
 
-Estou me preparando para a certificação **CompTIA Security+**, focando em redes, vulnerabilidades, monitoramento de ameaças e resposta a incidentes. Meu objetivo é garantir que os dados que analisamos estejam seguros, íntegros e protegidos, porque sem segurança, não há informação confiável.
+📚 **ASP.NET Core** – Foco na construção de aplicações escaláveis e arquitetura robusta com **Entity Framework e LINQ**.  
+📚 **Testes em .NET** – Aprofundamento em **testes unitários e integração contínua**, utilizando **xUnit, Selenium, Azure DevOps e GitHub Actions** para garantir qualidade e automação nos projetos.  
+📚 **Cloud Computing & DevOps** – Estudo de **arquitetura de microsserviços**, automação de deploys e monitoramento utilizando **Azure e Docker**.  
+📚 **Python para Data & Backend** – Exploração de **automação, análise de dados e integração com APIs** para otimizar processos e desenvolver soluções eficientes.  
+📚 **Cibersegurança & Proteção de Dados** – Atualmente me preparando para a certificação **CompTIA Security+**, aprofundando conhecimentos em **segurança de redes, monitoramento de ameaças e resposta a incidentes**.  
 
-<img align="center" alt="Cybersecurity" height="50" width="50" src="https://cdn.prod.website-files.com/63eef1be981a383fb127661f/6470af4055598689d5eb6403_Frame%2096262.png">
 
-<br></br>
-<br></br>
-
-  ##
-  ### Contato:
+## 📩 Contato  
 
 <div>  
-  <a href="https://www.linkedin.com/in/luis-duarte-560993291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luiscmduarte077@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
+  <a href="https://www.linkedin.com/in/luis-duarte-560993291/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:luiscmduarte077@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>  
   
 </div>
 
