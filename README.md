@@ -1,52 +1,68 @@
-<h2 align="center">
+<h2 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBA611&center=true&vCenter=true&width=500&lines=Olá!%2C+me+chamo+Luis!+👋;Bem-vindo+ao+meu+GitHub!+✌" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBA611&center=true&vCenter=true&width=500&lines=Ol%C3%A1!%2C+me+chamo+Luis!+%F0%9F%91%8B" 
     alt="Typing SVG" />
   </a>
 </h2>
 
-## 💻 Desenvolvimento Back-End com C# e .NET ⚙️  
-Sou apaixonado por desenvolvimento back-end e minha stack principal inclui **C#, .NET, ASP.NET Core, Python e Java**, onde foco na construção de **APIs eficientes, escaláveis e seguras**. Busco constantemente aprimorar minhas habilidades em **arquitetura de software**, **boas práticas** e **testes automatizados**, além de explorar soluções como **mensageria e microsserviços** para aplicações modernas.  
 
-## 🛠️ Tecnologias & Ferramentas  
-Aqui estão as principais tecnologias que utilizo no desenvolvimento back-end:  
+---
+
+## 🔐 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP (2º e último ano), com foco em Cibersegurança e Segurança da Informação. Também tenho interesse por análise de dados, o que me levou a explorar áreas como Threat Intelligence e o papel estratégico da informação na defesa contra ameaças digitais.
+
+👇Atualmente estou me preparando para a certificação internacional: [CompTIA Security+](https://www.comptia.org/certifications/security)
+
+<img align="center" alt="Security+" height="60" src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full">
+
+---
+
+## 📜Certificações
+<img align="center" altr="Cisco" height="60" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png">
+
+---
+
+## ⚒️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="ASP.NET Core" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/300px-.NET_Core_Logo.svg.png">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://www.svgrepo.com/show/255832/sql.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Azure" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
-  <img align="center" alt="GitHub Actions" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="xUnit" height="40" width="50" src="https://avatars.githubusercontent.com/u/2933246?s=200&v=4">
-</div>  
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png">
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Wireshark" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
 
 
-## ✅ Estudos Recentes  
-Buscando me aprimorar cada vez mais na área, concluí recentemente **formações voltadas para desenvolvimento Back-End em C# e .NET**, além de expandir meu conhecimento em **Cloud Computing, DevOps e Segurança**:  
 
-📚 **ASP.NET Core** – Foco na construção de aplicações escaláveis e arquitetura robusta com **Entity Framework e LINQ**.  
-📚 **Testes em .NET** – Aprofundamento em **testes unitários e integração contínua**
-📚 **Cloud Computing & DevOps** – Estudo de **arquitetura de microsserviços**, automação de deploys e monitoramento utilizando **Azure e Docker**.  
-📚 **Python para Data & Backend** – Exploração de **automação, análise de dados e integração com APIs** para otimizar processos e desenvolver soluções eficientes.  
-📚 **Cibersegurança & Proteção de Dados** – Atualmente me preparando para a certificação **CompTIA Security+**, aprofundando conhecimentos em **segurança de redes, monitoramento de ameaças e resposta a incidentes**.  
+---
 
+## 🎓 Formação Técnica (SENAC)
+Durante o ensino médio técnico no **SENAC**, desenvolvi formações que criaram a base para minha carreira em tecnologia:
 
-## 📩 Contato  
+✔️ 1º ano: **Assistente de Suporte e Manutenção de Computadores**
 
-<div>  
+✔️ 2º ano: **Assistente de Operação de Redes**
+- Topologias de rede, protocolos (TCP/IP, DNS, DHCP, FTP, HTTP)
+- Conceitos das **7 camadas OSI** e **modelo TCP/IP**
+- Roteamento, switches, firewalls e segurança de redes
+- Endereçamento IP, sub-redes e ferramentas de diagnóstico (ping, traceroute, etc)
+
+✔️ 3º ano: **Assistente de Desenvolvimento de Aplicativos Computacionais**
+
+---
+
+## 📧 Contato
+
+<div>
   <a href="https://www.linkedin.com/in/luis-duarte-560993291/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto:luiscmduarte077@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div>  
-  
 </div>
 
-<!--
+---
 
-  <a href="https://www.instagram.com/luis.duarte0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
--->
-
+<!-- Luis -->
